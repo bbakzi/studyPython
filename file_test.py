@@ -1,4 +1,5 @@
 import random
+
 with open('vocabulary.txt', 'r') as f:
     voca = {}
     for line in f:
